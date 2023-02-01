@@ -1,31 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.7dbe0882.chunk.css",
-    "main.js": "/static/js/main.3f27ff95.chunk.js",
-    "main.js.map": "/static/js/main.3f27ff95.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.747640bc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.747640bc.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.616cb5ad.chunk.js": "/static/js/2.616cb5ad.chunk.js",
-    "static/js/2.616cb5ad.chunk.js.map": "/static/js/2.616cb5ad.chunk.js.map",
-    "static/js/3.a5822092.chunk.js": "/static/js/3.a5822092.chunk.js",
-    "static/js/3.a5822092.chunk.js.map": "/static/js/3.a5822092.chunk.js.map",
+    "main.css": "/static/css/main.44a0ee5e.css",
+    "main.js": "/static/js/main.bc221522.js",
+    "static/js/787.44e022fc.chunk.js": "/static/js/787.44e022fc.chunk.js",
+    "static/media/background.webp": "/static/media/background.9d79f0a51082b5453552.webp",
+    "static/media/mastercard.png": "/static/media/mastercard.98e6700b574df33e2798.png",
+    "static/media/amex.png": "/static/media/amex.9ecea2dc42d5014c23cc.png",
+    "static/media/visa.png": "/static/media/visa.8cfb69c03e56b125b1be.png",
+    "static/media/ft-logo.png": "/static/media/ft-logo.0e4fff4196d2f44dc3ba.png",
     "index.html": "/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.7dbe0882.chunk.css.map": "/static/css/main.7dbe0882.chunk.css.map",
-    "static/js/2.616cb5ad.chunk.js.LICENSE.txt": "/static/js/2.616cb5ad.chunk.js.LICENSE.txt",
-    "static/media/amex.9ecea2dc.png": "/static/media/amex.9ecea2dc.png",
-    "static/media/SearchBar.css": "/static/media/background.9d79f0a5.webp",
-    "static/media/cross.967fce73.svg": "/static/media/cross.967fce73.svg",
-    "static/media/ft-logo.0e4fff41.png": "/static/media/ft-logo.0e4fff41.png",
-    "static/media/mastercard.98e6700b.png": "/static/media/mastercard.98e6700b.png",
-    "static/media/visa.8cfb69c0.png": "/static/media/visa.8cfb69c0.png"
+    "static/media/cross.svg": "/static/media/cross.967fce738417fa237510441cb9873988.svg",
+    "main.44a0ee5e.css.map": "/static/css/main.44a0ee5e.css.map",
+    "main.bc221522.js.map": "/static/js/main.bc221522.js.map",
+    "787.44e022fc.chunk.js.map": "/static/js/787.44e022fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.747640bc.js",
-    "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.616cb5ad.chunk.js",
-    "static/css/main.7dbe0882.chunk.css",
-    "static/js/main.3f27ff95.chunk.js"
+    "static/css/main.44a0ee5e.css",
+    "static/js/main.bc221522.js"
   ]
 }
