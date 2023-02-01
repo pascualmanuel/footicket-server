@@ -35,7 +35,7 @@ module.exports = (app) => {
   app.use(
     cors({
       credentials: true,
-      origin: process.env.ORIGIN || "http://localhost:3000" || "https://footicket.onrender.com/"
+      origin: process.env.ORIGIN || "http://localhost:3000",
     })
   );
 
@@ -43,7 +43,7 @@ module.exports = (app) => {
   app.use(logger("dev"));
   // To have access to `body` property in the request
   app.use(express.json());
-  app.use(express.urlencoded({extended: false}));
+  app.use(express.urlencoded({ extended: false }));
   app.use(cookieParser());
 
   // ℹ️ Middleware that adds a "req.session" information and later to check that you are who you say you are 😅
