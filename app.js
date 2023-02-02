@@ -41,4 +41,4 @@ app.use((req, res) => res.sendFile(__dirname + "/public/index.html"));
 //   res.status(404).send("Something broke!");
 // });
 
-// module.exports = app;
+module.exports = app;
