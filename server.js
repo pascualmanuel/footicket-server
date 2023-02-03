@@ -4,7 +4,6 @@ const app = require("./app");
 const PORT = process.env.PORT || 5005;
 
 const app = express();
-const port = process.env.SERVER_PORT || 8000;
 
 // Add Access Control Allow Origin headers
 app.use((req, res, next) => {
